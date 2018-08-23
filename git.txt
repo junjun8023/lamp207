@@ -2,3 +2,8 @@ gitHub
 
 用户名junjun8023
 密码Junjun8023zy
+
+
+ git remote add origin https://github.com/junjun8023/lamp207.git
+
+ git push -u origin master
